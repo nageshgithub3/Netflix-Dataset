@@ -1,9 +1,9 @@
 **# Netflix-Dataset**
-_By Using Python Libraries like pandas and seaborn
-_
+**By Using Python Libraries like pandas and seaborn**
+
 **# The commands that we used in this project:**
 
-_head()-It shows the first N rows in the data (by default, N-5).
+head()-It shows the first N rows in the data (by default, N-5).
 
 tail()-It shows the last N rows in the data (by default, N-5).
 
@@ -46,7 +46,7 @@ sns.countplot(df['Col.name'])- To show the count of all unique values of any col
 max(), min()- It shows the maximum/minimum value of the series.
 
 mean()- It shows the mean value of the series.
-_
+
 
 **We will learn this things also:**
 
@@ -55,8 +55,10 @@ _
 --> Filtering with AND and OR
 --> Seaborn Library - Bar Graph
 
-Task.1) Is there any Duplicate Record in this dataset? If yes, then remove the duplicate records.
-Task.2) Is there any Null values present in any column? Show with Heat-map.
+**Tasks**
+
+Task. 1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
+Task. 2) Is there any Null Value present in any column ? Show with Heat-map.
 
 **QUESTIONS:**
 
